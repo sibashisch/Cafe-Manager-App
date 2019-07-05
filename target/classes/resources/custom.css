@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.tableCell {
+	padding: 2px;
+	border: "0px";
+}
+
+.tableCellInner {
+	border-width: 5px;
+	border-style: outset;
+	font-size: larger;
+	min-height: 150px;
+	text-align: center;
+}
+
+.tableCellInner:hover {
+	border-style: inset;
+}
+
+.tableNo {
+	font-size: xx-large;
+	font-weight: bold;
+}

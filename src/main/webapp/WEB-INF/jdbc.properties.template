@@ -1,0 +1,7 @@
+jdbc.driverClassName=com.mysql.jdbc.Driver
+jdbc.dialect=org.hibernate.dialect.MySQLDialect
+jdbc.databaseurl=jdbc:mysql://<host>:<port>/<db name>
+jdbc.username=<user name>
+jdbc.password=<user password>
+
+#These configurations depends on your setup
