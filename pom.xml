@@ -10,7 +10,7 @@ Cafe Management Software built by Sibashis Chatterjee</description>
 
   <properties>
     <!--org.springframework.version>3.0.5.RELEASE</org.springframework.version-->
-    <org.springframework.version>4.3.18.RELEASE</org.springframework.version>
+    <org.springframework.version>5.3.19</org.springframework.version>
   </properties>
   
   <dependencies>
